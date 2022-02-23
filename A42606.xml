@@ -1,0 +1,453 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A general epistle given forth by the people of the Lord, called, Quakers that all may know, we own none to be of our fellowship, or to be reckoned or numbred with us, but such as fear the Lord and keep faithfully to his heavenly power, that with a holy conversation they may adorn that truth they profess, otherwise, what experience soever they have had of the truth, and are fallen from it, we account them as so many Judasses or Demasses, and own such no more than the primitive Christians owned them; but we testifie against them, and say, such go into perdition through transgression, and fall under darkness into a state of damnation, twice dead, pluckt up by the roots, reserv'd in everlasting chains, until the judgment of the great day, except it be possible they yet can find a place of repentance through God's great unlimitted mercy. Read the general epistle of Jude.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42606</idno>
+            <idno type="STC">Wing G497A</idno>
+            <idno type="STC">ESTC R219864</idno>
+            <idno type="EEBO-CITATION">99831311</idno>
+            <idno type="PROQUEST">99831311</idno>
+            <idno type="VID">35774</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42606)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35774)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2049:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A general epistle given forth by the people of the Lord, called, Quakers that all may know, we own none to be of our fellowship, or to be reckoned or numbred with us, but such as fear the Lord and keep faithfully to his heavenly power, that with a holy conversation they may adorn that truth they profess, otherwise, what experience soever they have had of the truth, and are fallen from it, we account them as so many Judasses or Demasses, and own such no more than the primitive Christians owned them; but we testifie against them, and say, such go into perdition through transgression, and fall under darkness into a state of damnation, twice dead, pluckt up by the roots, reserv'd in everlasting chains, until the judgment of the great day, except it be possible they yet can find a place of repentance through God's great unlimitted mercy. Read the general epistle of Jude.</title>
+               </titleStmt>
+               <extent>23, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by William Bradford at Philadelphia in Pennsilvania,</publisher>
+                  <pubPlace>[Philadelphia] :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With an advertisement on C4v.</note>
+                  <note>Imperfect; tightly bound with some loss of text.</note>
+                  <note>Reproduction of the original in the Friends House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Early works to 1800.</term>
+               <term>Quakers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35774:1" rendition="simple:additions"/>
+            <head>A <hi>General Epiſtle</hi> Given forth by the People of the Lord, called, <hi>Q<g ref="char:V">Ʋ</g>AKERS,</hi>
+            </head>
+            <p>That all may know, we own none to be of our Fellowſhip, or to be reckoned or numbred with us, but ſuch as fear the Lord and keep faithfully to his heavenly Power, that with a holy Converſation they may adorn that Truth they profeſs, otherwiſe, what experience ſoever they have had of the Truth, and are fallen from it, we account them as ſo many <hi>Judaſſes</hi> or <hi>Demaſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</hi> and own ſuch no more than the primitive <hi>Chri<g ref="char:EOLhyphen"/>ſtians</hi> owned them; but we teſtifie againſt them, and ſay, ſuch go into Perdition through Tranſgreſſion, and fall under Dark<g ref="char:EOLhyphen"/>neſs into a ſtate of Damnation, twice dead, pluckt up by the Roots, reſerv'd in ever<g ref="char:EOLhyphen"/>laſting Chains, until the Judgment of the great Day, except it be poſſible they yet can find a place of Repentance through God's great unlimitted Mercy. Read the general Epiſtle of <hi>Jude.</hi>
+            </p>
+            <p>
+               <hi>Printed and Sold by</hi> William Bradford <hi>at</hi> Phila<g ref="char:EOLhyphen"/>delphia <hi>in</hi> Pennſilvania, 1686.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:35774:2"/>
+            <pb facs="tcp:35774:2" rendition="simple:additions"/>
+            <head>
+               <hi>A General Epiſtle given forth by the People of the Lord, called;</hi> Quakers.</head>
+            <p>CHRIST and his Diſciples were the bleſſed Church in the days of his Fleſh, and <hi>Judas</hi> was one of the twelve, who was Guide to them that took Jeſus, and had been number'd with the other Diſciples, and obtained part of the ſame Mi<g ref="char:EOLhyphen"/>niſtry with them, who fell by Tranſgreſſion, that he might go to his own place, for he was a Devil, as Chriſt himſelf ſaid of him, <hi>Have not I choſen you twelve, and one of you is a Devil?</hi> for he was a Murderer in betray<g ref="char:EOLhyphen"/>ing his Lord and Maſter into the hands of thoſe Murderers who ſlew him, and cauſleſly put him to death.</p>
+            <p>But the wicked Serpent was kept out from entring upon the other eleaven Diſci<g ref="char:EOLhyphen"/>ples, becauſe they gave ear to Jeſus, and abode in his Doctrine, and therefore being faithful, were ſent to turn Nations and Peo<g ref="char:EOLhyphen"/>ple from Darkneſs to Light, and from Satans Power unto God, that they might receive
+<pb n="4" facs="tcp:35774:3"/> forgiveneſs of ſins, and Inheritance among them which were ſanctified by Faith i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Chriſt Jeſus.</p>
+            <p>Now theſe bleſſed Apoſtles and Miniſters of the overlaſting Goſpel kept their Habi<g ref="char:EOLhyphen"/>tations and Stations in the holy Truth, from which <hi>Judas</hi> fell by Tranſgreſſion, and they were good Examples unto others, unto wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m they preached in a holy Life and Converſation. They did not converſe with Drunkards, Swearers, Lyars, Murderers, falſe Accuſers of the Innocent, Fornicators, Adulterers, Idolators, Blaſphemers, malici<g ref="char:EOLhyphen"/>ous Back-biters (he added) and proud high minded ones, <hi>&amp;c.</hi> to joyn or unite with them in the Iniquities their hearts were privy to, but were ſound in the faith, and preached the everlaſting Goſpel with Power from Heaven, to the ſubjecting and trampling upon Satans Power, to ſtand over his Deeds of Darkneſs and Wickedneſs; and ſuch Majeſty and Dominion is with all Chriſt's Miniſters, who live with God in his holy Truth and Power; but they who go from this Power of the living God, and fall by Tranſgreſſion, as <hi>Judas</hi> did, become as ſo many <hi>Judaſſes</hi> to betray the Truth into the hands of the wicked Murderers of the Light, Life. Spi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it and Power of Jeſus, by their ſcandalous walking and wicked acting, fall<g ref="char:EOLhyphen"/>ing
+<pb n="5" facs="tcp:35774:3"/> into preſumption with the Angels which kept not their firſt eſtate in the Truth, do<g ref="char:EOLhyphen"/>ing things contrary to the good Order of it, ſhewing forth Examples of Lewdneſs, Vani<g ref="char:EOLhyphen"/>ty and Wickedneſs, and ſo become twice dead, plucked up by the Roots; and ſuch may come raging againſt the Truth, foam<g ref="char:EOLhyphen"/>ing out their own ſhame, through the enmi<g ref="char:EOLhyphen"/>ty that Satan hath begot in them, being tormented becauſe of Truth, whoſe Teſti<g ref="char:EOLhyphen"/>mony ſtands and ariſes againſt all ſuch <hi>Ju<g ref="char:EOLhyphen"/>daſſes</hi> who fight againſt the Light and the Power of God in his faithful Servants, and ſo <hi>Judas</hi>-like, for their own baſe ends, do what they can to inſinuate their own wicked Spirits of enmity into the hearts of the in<g ref="char:EOLhyphen"/>nocent, to betray them from that ſimplicity and ſtability that is in the Truth, to draw and lead them into Confuſion, to ſtart back from the Truth, and ſo to fall with them by Tranſgreſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on, as <hi>Judas</hi> did, that Thief and Murderer: To ſuch is reſerv'd the blackneſs of Darkneſs forever.</p>
+            <p>And ſuch, whether they be Drunkards, Fornicators, Adulterers, falſe Accuſers, Blaſ<g ref="char:EOLhyphen"/>phemers, or live in any other ſort of Wick<g ref="char:EOLhyphen"/>neſs, though they have been convinced of Truth, as <hi>Judas</hi> was, and received part of Truth's Miniſtry, as <hi>Judas</hi> did, yet being fallen from the Truth by Tranſgreſſion into
+<pb n="6" facs="tcp:35774:4"/> Enmity, Wickedneſs and Miſchief, we in the bleſſed Truth, which is everlaſtingly pure and precious, do deny them all, who are wickedly bent and ſet againſt the Truth, and live in a factious, rebellious, ſenſual, looſe, vain and prophane Condition, to the diſhonour of God, and ſhame to pure Re<g ref="char:EOLhyphen"/>ligion, the good Order and Government of it.</p>
+            <p>And know this, though many may profeſs in ſhew to be Chriſtians, and the People of God amongſt us, who were in ſcorn and de<g ref="char:EOLhyphen"/>riſion firſt abuſed and called and nick-named <hi>Quakers,</hi> Let all know, that ſince firſt, through Gods Mercy, we became a People, the Devil hath laboured to bring forth his wicked Inſtruments to abuſe us &amp; the Truth, through the ſcandalous living of ſuch as have made a profeſſion of Truth, but never owned by ſuch as lived in it, no, not from the beg<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nning, but have been denyed, and teſtified againſt, both by word and writing, ſo that if amongſt the twelve Diſciples there was one became a Devil, and fell by Tranſ<g ref="char:EOLhyphen"/>greſſion, ſo now if amongſt every twelve who Profeſs the ſame Truth with us called <hi>Quakers,</hi> one ſhould become a Devil, and fall by Tranſgreſſion, we cannot help it.</p>
+            <p>Let ſuch remember <hi>Judas</hi> his end at the except they can find a place of Re<g ref="char:EOLhyphen"/>pentance.
+<pb n="7" facs="tcp:35774:4"/> 
+               <hi>Judas</hi> his ſtate repreſents the body of the whole Apoſtacy and Degenera<g ref="char:EOLhyphen"/>tion from the holy Faith, ſo that <hi>Judas</hi> is the Father of them all, and they may read their ſtate and Doom in <hi>Judas;</hi> they all give an occaſion for Truth to be evil ſpoken of, its bleſſed face to be ſpit upon, to be reproached and ſhamed, and evilly intreated, even unto Death and Deſtruction, as much as in them lies; ſo that it may have no eſteem at all in Peoples hearts, but be ac<g ref="char:EOLhyphen"/>counted a baſe and unworthy thing, that People may ſlight it through their wicked living who profeſs it, as if it had no power or vertue in it to ſave Peoples Souls, and heal their Diſtempers of Iniquity and Sin.</p>
+            <p>This is the Devil's Work in ſuch Inſtru<g ref="char:EOLhyphen"/>ments, that he may block up the way of Truth, and cauſe the ſimple to ſtumble, and ſo diſcourage their Faith, and keep them in Unbelief and Sin: Thus the Murderer of Souls thinks to have his end by keeping Peo<g ref="char:EOLhyphen"/>ple under his dark Power.</p>
+            <p>But this is our Teſtimony from the living God, That though many may profeſs the Truth, who live not in it, but are a ſcandal to it, yet the Lo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d hath a living People who fear him, and have kept their Habitations in his Truth, and are good Examples in word and work for others to follow, whoſe
+<pb n="8" facs="tcp:35774:5"/> hearts are known to the Lord, and their Zeal for the proſperity of his heavenly <hi>Jeruſalem,</hi> who are Wells with Water and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>loud<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with Rain, to refreſh the hearts of many with their Virtue, through the Influence of the Lords heavenly Power, and Showers of pure divine refreſhing Bounty, and are the Ser<g ref="char:EOLhyphen"/>vants of the living God in their Meaſures, in the true Faith, and unity with the Diſ<g ref="char:EOLhyphen"/>ciples and holy Miniſters of Jeſus Chriſt, who fell not with <hi>Judas</hi> by Tranſgreſſion, but kept the faith of our Lord Jeſus Chriſt to the end, and in the end received a Crown of Glory laid up for them in Chriſt Jeſus; and we teſtify for God againſt all dark Souls, who may meet with us as if they were of us, and profeſs the Truth, yet have not on the Wedding Garment of uncerity and holy mindedneſs, but are reprobate concerning the Faith, and hold the Truth in Unrigh<g ref="char:EOLhyphen"/>teouſneſs.</p>
+            <p>Such are Spots in our Feaſts of Charity, and partake not with us of the referſhing ſence of the holy Life of the pure God, nei<g ref="char:EOLhyphen"/>ther can they eat of the Fleſh or drink with us of the Blood of the Lord Jeſus, or diſ<g ref="char:EOLhyphen"/>cern the Lords Body, though we wiſh all ſuch who come to our Meetings a better Condition, that with us they may truly ſay, <hi>Verily our fellowſhip is with the Lord's People in Christ Jeſus.</hi>
+            </p>
+            <pb n="9" facs="tcp:35774:5"/>
+            <p>So we give forth our general Teſtimony, That we own none to be of us, or to have <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nity with us, but ſuch as fear the true and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ving God, and take up the Croſs of Chriſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hich is his eternal Power, that ſo they may <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e kept in the Faith that ſtands in the ſame <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ower, to the purifying of their hearts, and giving them victory over the World, the Myſtery of which Faith is held in a pure Conſcience.</p>
+            <p>But we dearly cheriſh and love every ten<g ref="char:EOLhyphen"/>der deſire that is raiſed up toward<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God in all, that their hearts and Souls may be kept hung<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing and thirſting after Righteouſneſs, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arneſtly breathing for Mercy from the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence of the weight of Iniquity which hath been upon them, that ſo they may come to the ſtate of the bruiſed Reed and ſmoking Flax, to wait upon the Lord to renew their ſtrength in his Power, and to be Witneſſes of his burning day, to the purifying of their hearts, and purging of their Iniouities with a true and pure ſpirit of Judgment and ever<g ref="char:EOLhyphen"/>laſting Burning; let ſuch receive incourage<g ref="char:EOLhyphen"/>ment, for in due time, thorow the exerciſe of Patience and faithfulneſs to God, they will reap, and not faint, and attain their deſired end; but all ſuch as <hi>Judas</hi> (a traytor) and <hi>Demas,</hi> who turned from the Truth into the evil World, <hi>Hymeneus</hi> and <hi>Alexander,</hi>
+               <pb n="8" facs="tcp:35774:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="9" facs="tcp:35774:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="10" facs="tcp:35774:7"/> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ho made ſhipwrack of Faith and a good Conſcience, we utterly deny, and cannot own, though they may in words and ſhew profeſs the Truth, but their Fruits will make all ſuch manifeſt, and God's Wiſdom will teach all the Lovers of it how to behave themſelves towards all men, in all ſtates and conditions whatſoever, and to love Enemies, and falſe Friends and Brethrens Souls, by wiſhing for them true Repentance unto Life, that they may eſcape the danger of the Wrath and Indignation of God, which will ſuddainly and everlaſtingly overtake all ſuch as pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſevere in Unrighteouſneſs, and hold the Truth in it.</p>
+            <p>For as the Apoſtle ſaith, <hi>Neither Fornica<g ref="char:EOLhyphen"/>tors, nor Idolaters, nor Adulterers, nor Effa<g ref="char:EOLhyphen"/>minate, nor Abuſers of themſelves with</hi> MAN<g ref="char:EOLhyphen"/>KIND; <hi>nor Thieves, nor Covetous, nor D<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nkards, nor Revilers, nor Extortioners, ſhall inher it the Kingdom of God.</hi> But if any have been ſo, but now are ſanctified, waſh<g ref="char:EOLhyphen"/>ed and jnſtified in the Name of the Lord Je<g ref="char:EOLhyphen"/>ſus, by the Spirit of God, it is well; but all ſuch as live and abide in ſuch things afore<g ref="char:EOLhyphen"/>mentioned, without Repentance, will utter<g ref="char:EOLhyphen"/>ly periſh.</p>
+            <p>The Apoſtle <hi>Paul</hi> in his firſt Epiſtle to the <hi>Corinthians</hi> chap. 6. reproveth the <hi>Corin<g ref="char:EOLhyphen"/>thian</hi>-Believers for going to Law one with
+<pb n="11" facs="tcp:35774:7"/> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nother, and that before the Unbelievers, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d upbraids them for ſo doing, asking them <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f there were not a wiſe man amongſt them, <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, not one able to judge between his Brethren?</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elling them, it was utterly a fault amongſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem, asking them, <hi>Why they did not rather <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ake wrong, or ſuffer themſelves to be defrauded?</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aying alſo, <hi>Know ye not that we ſhall judge Angels? how much more things that pertain to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>his Life? Nay,</hi> ſays, he <hi>you do wrong &amp; defraud, <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that your Brethren; Do ye not know that in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>laces of Judicature all ſorts of People are ad<g ref="char:EOLhyphen"/>mitted to hear matters debated there? And will <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t not be a ſhame for ſuch as profeſs the Truth to <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e heard there by the vileſt of men,</hi> to endeavour to the utmoſt to uncover one anothers Na<g ref="char:EOLhyphen"/>kedneſs, for ſome worldly end or other; this is worſe than <hi>Ham's</hi> villiany, who un<g ref="char:EOLhyphen"/>covered the real Nakedneſs of his Father to his Brethren only; but theſe who may be called <hi>Quakers</hi> endeavour to uncover one anothers Nakedneſs to all Sects and ſorts of People, who will be Spectators thereof, though they may be the vileſt of men, who hate the Truth. This is far from Chriſtia<g ref="char:EOLhyphen"/>nity, and endeavouring to cover one ano<g ref="char:EOLhyphen"/>thers Nakedneſs, Weakneſſes &amp; Infirmities; Let ſuch who are concerned be aſhamed of ſuch things.</p>
+            <p>All falſe and Unjuſt Dealing, Fraud and
+<pb n="12" facs="tcp:35774:8"/> Deceit, Cheating, Over-reaching one ano<g ref="char:EOLhyphen"/>ther, which things are Unchriſtian, we utterly diſown; for Truth acteth Righte<g ref="char:EOLhyphen"/>ouſneſs, and to do to others as we would they ſhould do to us; but we would not that any through falſe pretences, &amp; equivocations or ſub<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ilty ſhould betray any by borrowing, buying, or otherwiſe, whenas the bottom of the matter being found out, it is found to be an implicite kind of Theft, to get others Goods and things into their hands, under pretence of borrowing or buying, &amp;c. whenas aforehand they have known they have not been in a capacity to perform their Promiſes or Bargains, which hath been the cauſe of Contention, and Troubles, and Law-ſuits, and the Ruin of Families, and caſting into Priſons for Debt; but the Truth and fear of God caſts out all ſuch things, and introduces plainneſs and ſimpli<g ref="char:EOLhyphen"/>city, but the Lord helpeth the needy who truſt in him, and fuch have no need to ex<g ref="char:EOLhyphen"/>erciſe Craft and Fraud to live by, as they fear and reverence the true and living God, without guile, he will bleſs them and help them, and ſtir up true hearted Friends to do them good. The poor man's Basket and ſtore is bleſſed, whoſe heart is with the Lord, and his morcel of Bread and cup of cold Water, as he ſtands in the counſel of God,
+<pb n="13" facs="tcp:35774:8"/> and keeps in to him, and looks not out at others, to murmur at their proſperity, or covet their worldly ſubſtance, but are con<g ref="char:EOLhyphen"/>tent with their own preſent need or want, their own Innocence and Righteouſneſs will be felt amongſt God's People, who will an<g ref="char:EOLhyphen"/>ſwer their Conditions one way or other; and if it were poſſible that ſhould fail, which is not, the Lord for their ſakes will cauſe Stones to be made Bread, and the hearts of their Enemies to open and feed them. This is concerning the Lords Poor, who are neither ſlothful nor idle minded, nor mur<g ref="char:EOLhyphen"/>murers, nor look out to repine at others proſperity, but are content to wait upon the Lord only, to be ſupplied by him what way he ſees meet. Thus Innocency and Simplicity never fails of Mercy; but as for Subtilty, ſiniſter falſe Hypocritical Dealing, which would deceive and get for ſelf, God will confound it all, and ſuch will live mi<g ref="char:EOLhyphen"/>ſerably in the end, and poor every way, and be caſt ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and ſeparated from the ſociety and fellowſhip of God's People, and ſo will be the Worlds, but not the Lords Poor, ex<g ref="char:EOLhyphen"/>cept they repent, and ſhew forth Fruits meet for it, to amendment of Life, and a holy Converſation, in Juſtice, Truth and Righ<g ref="char:EOLhyphen"/>teouſneſs.</p>
+            <closer>
+               <dateline>
+                  <date>Written in th 6th Month, 1685.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <pb n="14" facs="tcp:35774:9"/>
+               <head>Poſtſcript.</head>
+               <p>THis Epiſtle was written, and read on our <hi>Firſt Days</hi> Meeting at <hi>Philadelphia</hi> in the ſixth Month laſt paſt, and ſeen meet to be now printed for the ſakes of the mode<g ref="char:EOLhyphen"/>rate Enquirers after Truth, and our Princi<g ref="char:EOLhyphen"/>ples, that ſuch may have true ſatisfaction, and to ſtop the Mouthes of the Clamorous and Ungodly, who are Blaſphemers and Railers againſt it, eſpecially when they can eſpy a <hi>J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>das</hi> amongſt us, or any one to fall by Tranſgreſſion, which Chriſt the Truth, whoſe Name we profeſs, who never fell, is clear of; And when ſuch things happen, let not the Ungodly rejoyce in their Wicked<g ref="char:EOLhyphen"/>neſs, who love it, and live in it without Repentance; for the Damnation of ſuch <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>umbers not.</p>
+               <closer>
+                  <dateline>
+                     <hi>From the Church of</hi> Philadelphia <hi>in</hi> Pennſilvania.</dateline>
+               </closer>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="15" facs="tcp:35774:9"/>
+            <head>An Epiſtle to the People of God called <hi>Quakers</hi> in the Province of <hi>Pennſilvania,</hi> and the Territories thereunto belonging.</head>
+            <opener>
+               <salute>Dear Friends;</salute>
+            </opener>
+            <p>THe Salutation of my Love is unto you that make a Profeſſion of the bleſſed way of Truth in the in<g ref="char:EOLhyphen"/>ward parts, deſiring both night and day, with tender and ſervent Supplication to the God of the Light that hath ſprung upon us in a living and powerful Viſication, that we may all anſwer the Love and Mercy of the Lord to us, ſo plentiouſly manifeſted.</p>
+            <p>
+               <hi>Friends,</hi> It is upon me, and long hath been<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from the God of Truth and Righ<g ref="char:EOLhyphen"/>teouſneſs, to communicate to you a ſhort word of Counſel and Advice: God hath brought us hither, and we are yet among the Living; He hath a Work for us to do her<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> though the Spiteful and Envious will not believe it: Oh! that we may be faithful to the meaſure of Grace received, that the Evil minded may be diſappointed. <hi>Friends,</hi> keep in the ſenſe of that which firſt viſited
+<pb n="16" facs="tcp:35774:10"/> you, and kept you, and he that was with you to bleſs you in your native Country, will be with you and bleſs you and yours, and make you a Bleſſing to them that you are come among, that know him not, in this Wilderneſs alſo; for the Earth is the Lords, and his Preſence fills it, and his Power upholds it, and it is a precious thing to enjoy and uſe it in the ſenſe and feeling of the ſame; truly this honour have all the Saints, to whom he will give it for a quiet Habitation<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Have a care of Cumber, and the Love and Care of the World: 'Tis the Temptation that lieth neareſt to thoſe that are redeemed from Looſeneſs, or not addicted to it. The <hi>Moon,</hi> the Figure of the changeable World, is under the foot of the true Woman, whoſe Seed—we ought to approve our ſelves, God hath ordain'd it for a Foot<g ref="char:EOLhyphen"/>ſtool, and we muſt not make a Throne of it, nor doth it become them who ſeek heaven<g ref="char:EOLhyphen"/>ly places in Chriſt Jeſus. Oh! ſhow forth a bleſſed Example, for the Lords ſake; and truly, bleſſed is that Man and Woman, who in the inviſible Power rule their Affections about the viſible things, and that uſe the the World as true Travellers and Pilgrims, whoſe Home is not here below; ſuch do not exto<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ind o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> oppreſs their Neighbours in their Dealings, but are content with
+<pb n="17" facs="tcp:35774:10"/> moderate Gain, looking to the Bleſſing that follows, knowing right well, that they that over-value and over-care, fall into divers Snares and Sorrows, that hurt and pierce the Souls Peace. And in like manner, <hi>dear Friends,</hi> have a care of Looſeneſs, for it be<g ref="char:EOLhyphen"/>cometh us to be watchful, and gird up the Loyns of our Minds, and be ſober, and hope to the end. Are we from under outward Sufferings and Tryals that once we knew, and that carry an Humiliation with them upon the Spirits of People? let us be more circumſpect that we forget not the Lord nor his tender Mercies to us; for he is God, and he can find us out, and trouble, and vex, and plague the diſobedient and careleſs here, as well as in other Lands. Be zealous there<g ref="char:EOLhyphen"/>fore for the Lord, for he is a jealous God, and eſpecially over thoſe that have be<g ref="char:EOLhyphen"/>trothed themſelves unto him by the Profeſ<g ref="char:EOLhyphen"/>ſion of his holy Truth, yea, he will be avenged of the Hypocrite and Rebellious, but the Obedient he will bleſs, which my Soul prayeth you may be, that ſo I may never have an occaſion to exerciſe any other Power than that of Love and Brotherly Kindneſs. And, <hi>dear Friends,</hi> remember who it was that ſaid to his Children and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ollowers, <hi>Ye are Brethren, have a care of Unnaturalneſs in the Profeſſion of the Truth:</hi>
+               <pb n="18" facs="tcp:35774:11"/> To be without natural Affection to one ano<g ref="char:EOLhyphen"/>ther in the Truth, is a Mark of Apoſtacy, wherefore love one another, and help, and aſſiſt, and comfort one another; this was the new and living Commandment of our bleſſed Lord and Maſter, which if you keep, then can you not fall out, backbite, ſlander, go to Law, or hate one another in the ſight of the World, and that for the things that periſh; verily if any do theſe things, the Wrath of God will overtake them.</p>
+            <p>
+               <hi>Oh' Friends!</hi> Let us call to mind the day that hath dawned upon us, and what man<g ref="char:EOLhyphen"/>ner of Perſons we ought to be: Beſides, you know that the Eyes of the Inhabitants of the Lands, and thoſe of neighbouring Countries, yea, the People of remote Re<g ref="char:EOLhyphen"/>gions are upon us, and our doings, how we Live, how we Rule, and how we Obey, and joy would it be to ſome to ſee us hault, hear evil Tidings of our proceedings, as it would be an heavy, and an unſpeakable Grief to thoſe that wiſh well to our <hi>Zion.</hi> Friends, God requireth great Watchfulneſs from you, eſpecially Elders and Teachers in the Church of Chriſt, that they watch over their own, and others Families, that what<g ref="char:EOLhyphen"/>ever appears in any, contrary to the Teſti<g ref="char:EOLhyphen"/>mony and Mind of Truth, may be brought to Judgment, and diſowned, that the Camp
+<pb n="19" facs="tcp:35774:11"/> of the Lord may be kept clean of the Un<g ref="char:EOLhyphen"/>circumciſed that reſiſt the Spirit.</p>
+            <p>My <hi>Friends,</hi> remember that the Lord hath brought you upon the Stage, he hath now tryed you with Liberty, yea, and with Power too; he hath now put precious O<g ref="char:EOLhyphen"/>pertunities into your Hands, have a care of a perverſe Spirit, and do not provoke the Lord by doing thoſe things, by which the Inhabitants of the Land grieved his Spirit, that were before you, but ſanctifie God, the living God in your Hearts, that his Bleſſings may fall and reſt as the Dew of Heaven up<g ref="char:EOLhyphen"/>on you, and your Off-ſpring, then ſhall it be ſeen to the Nations, that there is no In<g ref="char:EOLhyphen"/>chantment againſt <hi>Jacob,</hi> nor Divination againſt <hi>Iſrael,</hi> but your Tents ſhall be good<g ref="char:EOLhyphen"/>ly, and your Dwellings glorious: Which is the daily humble Supplication of my Soul to my God and your God, and to my Father, and your Father; that am, with unfeigned Love, in that laſting Relation,</p>
+            <closer>
+               <signed>Your tender faithful Friend and Brother, William Penn.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="20" facs="tcp:35774:12"/>
+            <head>An Epiſtle to Friends to be read in their Meetings.</head>
+            <opener>
+               <salute>Dear Friends;</salute>
+            </opener>
+            <p>VVHat a bleſſed thing is it to fear the Lord, and to ſeek him continu<g ref="char:EOLhyphen"/>ally, for his Mercies fail not thoſe that truly wait upon him; he hath been very bountiful to us in our native Land, and hath been very tender and good to us, in bring<g ref="char:EOLhyphen"/>ing of us to this Wilderneſs; he was with us upon the tempeſtuous Seas, he abides with us ſtill, bleſſed be his Name forever, and for evermore.</p>
+            <p>Oh my <hi>Friends!</hi> let us call to mind the time when the Lord firſt made his bleſſed Truth known unto us, ſurely that was very acceptable; my Soul ſhall never forget it; what then did we enjoy, that we could not part withal for the Lord? Then did we abaſe our ſelves in Duſt and Aſhes, and I can truly ſay in that Day, I thought the meaneſt things I was unworthy of, and I do believe it was ſo with many more. And now my <hi>dear Friends,</hi> we are come into this <hi>American</hi> part, let us above all People not murmer, non be diſcontented, for we have
+<pb n="21" facs="tcp:35774:12"/> good experience of the Mercy of the Lord; for as we fear and obey him, he will make this Wilderneſs a fruitful Field; the great<g ref="char:EOLhyphen"/>eſt thing we deſire here, is, that People may come to fear the Lord, it is that, and that alone will make this a happy Coun<g ref="char:EOLhyphen"/>try unto us: Let all that fear the Lord put on Strength and Courage to do his holy Work; for here is much to be done, we muſt begin it, and carry it on, the Lord is ready to help us, and furniſh us with his Wiſdom, Advice and Counſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l; indeed we can do nothing without it.</p>
+            <p>Oh my <hi>dear Friends!</hi> let us not murmur here, for we may read in the Scriptures of Truth, how many fell in the Wilderneſs of thoſe that murmured; let us be content with our <hi>Manna,</hi> for here is no liklihood of a Famine, except they famiſh themſelves for want of taking heed to the Lords pure Word, which is daily Bread to his Chil<g ref="char:EOLhyphen"/>dren, and they live thereby; and many in this Country have great Families and Ser<g ref="char:EOLhyphen"/>vants, and for want of good fore-caſt, and a good heavenly Order, they become a bur<g ref="char:EOLhyphen"/>then unto their Maſters. Come, come, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny <hi>dear Friends,</hi> call your Families together every Family apart, and diſcharge your Duties, and there you may exhort, examine, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd adviſe, and by that means Gods holy
+<pb n="22" facs="tcp:35774:13"/> Truth will be over them all; You may find many Difficulties to fruſtrate ſuch a good and holy Order, and others may find it a great croſs to get into it, becauſe they may have Children or Servants that are very wild and they may think they will rather ſcoff a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it, then think it will do them good; but do adviſe you <hi>in the fear of the Lord,</hi> to ſit down with them in the Evening, or accord<g ref="char:EOLhyphen"/>ing as ye ſee meet, and wait there upon the Lord, for he is ready and willing at all times, and upon all occaſions, to aſſiſt and help his People and Servants in all things, and by this means your outward Buſineſs will be made eaſier, and you may ſave a great deal of loſt time that is ſpent amongſt Servants in their Maſters abſence; and by this means may find out ſome way that they may be helpful to their Neighbours, and it may prevent much time that is ſpent in Families after they have done their Labour and Ser<g ref="char:EOLhyphen"/>vice, in much<g ref="char:punc">▪</g> Talk and idle Jeſting; le<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> every Family that fears the Lord, practiſe therein this holy Law, and leave the iſſue to the Lord, and by this means you will find unruly Spirits to be chained: Some have ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> good experience of theſe things, but ſom<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> need not this Advice, who are in the practice of it, and witneſs the good effect thereof Alſo, I do think, that here in theſe parts<g ref="char:punc">▪</g>
+               <pb n="23" facs="tcp:35774:13"/> where S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ips do arrive, it would do well for ſome ſmall number of Men and Women Friends, to meet together, that are ſollid and weighty, to take a little care of the Perſons that are brought into this Country, that they may not ſit down here, or elſe<g ref="char:EOLhyphen"/>where, and ſpend that little that ſome bring with them, but that they may be adviſed, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ook care of, and employed; for here comes many Young People, that are ſingle Men and Women, that go about and ſpend that little they have, and then when it is gone, and ſee no way how to have more, they it may be take ill Courſes, and revile the Country; it would be very well for the time to come, we might uſe means to prevent theſe things, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd then that little they bring over with <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem, may do them good, in order to a ſet<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lement, I mean thoſe that be low, and may <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eed advice. Theſe things I was exerciſed <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith, and leave them to your Chriſtian Conſideration.</p>
+            <closer>
+               <signed>Frances Taylor.</signed>
+               <dateline>
+                  <date>Given forth ſome ſmall time before ſhe <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>parted this Life, who is eternally wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e Lord Jeſus forever.</date>
+               </dateline>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:35774:14"/>
+            <head>Books ſold by <hi>W. Bradford.</hi>
+            </head>
+            <list>
+               <item>NO Croſs, No Crown: <hi>Or a diſcourſe ſhewing the nature and diſcipline of the holy Croſs of Chriſt.</hi>
+               </item>
+               <item>
+                  <hi>An Addreſs to Proteſtants upon the preſent Conjuncture.</hi>
+               </item>
+               <item>
+                  <hi>An Anſwer to a fooliſh Libel call'd, the Quakers Opinions<g ref="char:punc">▪</g>
+                  </hi>
+               </item>
+               <item>
+                  <hi>A brief ſtate and examination of Liberty Spiritual.</hi>
+               </item>
+               <item>
+                  <hi>Truth Exalted, in a ſhort, but ſure, Teſtimony againſt al<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> thoſe Religions, Faiths and Worſhips that have been formed and followed in the Darkneſs of Apoſtacy, and for that glorious Light which is now riſen: Preſented t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Princes, Prieſts and People, that they may repent, believ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and obey.</hi>
+               </item>
+               <item>
+                  <hi>A Perſw<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſive to Modera<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ion to Diſſenting Chriſtians, i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Prudence and Conſcience humbly ſubmitted to the King and his great Council.</hi>
+               </item>
+               <item>
+                  <hi>An Epiſtle, containing a ſolemn Farewell to</hi> England<g ref="char:punc">▪</g> All writ by <hi>William Penn.</hi>
+               </item>
+               <item>
+                  <hi>The Spirit <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> the Martyrs revived in a brief compendi<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> of the moſt remarkable Paſſages and livi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> of the true Church, Seed of God and faith<g ref="char:EOLunhyphen"/>ful <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rtyrs in all Ages.</hi>
+               </item>
+               <item>
+                  <hi>The <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>fering ſtate &amp; condition of the People call'd Quakers preſented to the King and Parliament.</hi> Anno 1685.</item>
+               <item>
+                  <hi>A Lamentation over</hi> England, <hi>and faithful Warning to th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Inhabitants thereof.</hi> By William Bingley.</item>
+               <item>
+                  <hi>The true Chriſtians Faith and Experience briefly declared<g ref="char:punc">▪</g>
+                  </hi>
+               </item>
+               <item>
+                  <hi>A Mirror to diſtinguiſh the true Miniſters from the falſe.</hi>
+               </item>
+               <item>
+                  <hi>A Collection of the ſeveral Writings of</hi> Humphry Smith<g ref="char:punc">▪</g>
+               </item>
+               <item>
+                  <hi>A plain Path way opened to the Simple hearted, for th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> anſwering all Doubts and Objections. By</hi> S. Criſp.</item>
+               <item>
+                  <hi>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Invitation of Love to all that hunger and thirſt afte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Righteouſneſs. By</hi> 
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſabel Yemans.</item>
+               <item>
+                  <hi>The ſtate of the Birth T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mporal and Spiritual, &amp;c.</hi>
+               </item>
+               <item>
+                  <hi>The Principles of Truth, or a declaration of our Faith.</hi>
+               </item>
+               <item>
+                  <hi>Truths Vindication, or a ſtroke to wipe off foul Aſperation<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </item>
+               <item>Alſo, Primmers for Children, <hi>&amp;c.</hi>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
